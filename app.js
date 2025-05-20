@@ -1,8 +1,6 @@
-import {names} from "./name.js"
-import { hobbyes } from "./hobbies.js"
+import { final } from "./people.js";
 
-names("Edoardo", "Posf")
-hobbyes("calcio", "basket", "palla")
 
+final()
 
 
